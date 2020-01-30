@@ -5,9 +5,6 @@ using UnityEngine.UI;
 
 
 
-
-
-
 public class ButtonScript : MonoBehaviour
 {
     GameObject maintenance;
